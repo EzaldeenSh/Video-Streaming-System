@@ -1,0 +1,5 @@
+com\example\StreamService\controllers\LoginController.class
+com\example\StreamService\data\VideoResult.class
+com\example\StreamService\StreamServiceApplication.class
+com\example\StreamService\data\User.class
+com\example\StreamService\data\Video.class
